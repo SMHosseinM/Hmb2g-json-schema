@@ -1,0 +1,6 @@
+# IntelliJ files
+.idea/*
+Hmb2g-json-schema.iml
+
+# mvn build package
+targer/*
