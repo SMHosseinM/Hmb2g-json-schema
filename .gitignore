@@ -3,4 +3,4 @@
 Hmb2g-json-schema.iml
 
 # mvn build package
-targer/*
+target/*
